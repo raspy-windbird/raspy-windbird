@@ -17,7 +17,6 @@ Twitter: [@iamkamesora](https://twitter.com/iamkamesora)
 |言語|日本語 TypeScript|
 |食べ物|御座候|
 
----
 ## Timeline
 
 ### 2023-10-19
