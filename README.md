@@ -10,7 +10,6 @@ Twitter: [@iamkamesora](https://twitter.com/iamkamesora)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspy-windbird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ## 好きなもの
 |||
 |:---|:---|
